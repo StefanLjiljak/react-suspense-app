@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StefanLjiljak/react_suspense_app/static/css/main.050523cc.chunk.css",
+    "main.js": "/StefanLjiljak/react_suspense_app/static/js/main.9f988866.chunk.js",
+    "main.js.map": "/StefanLjiljak/react_suspense_app/static/js/main.9f988866.chunk.js.map",
+    "runtime-main.js": "/StefanLjiljak/react_suspense_app/static/js/runtime-main.283ea4fc.js",
+    "runtime-main.js.map": "/StefanLjiljak/react_suspense_app/static/js/runtime-main.283ea4fc.js.map",
+    "static/js/2.7b4196f6.chunk.js": "/StefanLjiljak/react_suspense_app/static/js/2.7b4196f6.chunk.js",
+    "static/js/2.7b4196f6.chunk.js.map": "/StefanLjiljak/react_suspense_app/static/js/2.7b4196f6.chunk.js.map",
+    "index.html": "/StefanLjiljak/react_suspense_app/index.html",
+    "precache-manifest.4e4ccd0b95e1431d6da8a65c12431efc.js": "/StefanLjiljak/react_suspense_app/precache-manifest.4e4ccd0b95e1431d6da8a65c12431efc.js",
+    "service-worker.js": "/StefanLjiljak/react_suspense_app/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/StefanLjiljak/react_suspense_app/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.7b4196f6.chunk.js.LICENSE.txt": "/StefanLjiljak/react_suspense_app/static/js/2.7b4196f6.chunk.js.LICENSE.txt",
+    "static/media/sample.gif": "/StefanLjiljak/react_suspense_app/static/media/sample.d077ebfd.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.283ea4fc.js",
+    "static/js/2.7b4196f6.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.9f988866.chunk.js"
+  ]
+}
